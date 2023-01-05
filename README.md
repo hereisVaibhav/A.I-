@@ -1,5 +1,5 @@
 # A.I
-This is my first project on A.I using python
+This is my first project on A.I (like Jarvis) using python
 Made by Vaibhav
 In this project I make certain modules to make it work perfectly like I use :->
 1. speech_recognition module inorder to recognizing the voice,
